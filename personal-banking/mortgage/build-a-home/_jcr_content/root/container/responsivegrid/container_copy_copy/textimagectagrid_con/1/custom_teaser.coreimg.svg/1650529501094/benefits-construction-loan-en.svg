@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-Benefits-construction-loan_200x90_smp">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="Benefits-construction-loan_200x90_smp" clip-path="url(#clip-Benefits-construction-loan_200x90_smp)">
+    <g id="FLT_ART_WORKS" data-name="FLT ART WORKS" transform="translate(2.458 0.28)">
+      <path id="Path_303" data-name="Path 303" d="M146.15,10.46a2.74,2.74,0,0,0-2.74-2.74H52a2.73,2.73,0,0,0-2.73,2.74V70.85h96.86Z" fill="#fff"/>
+      <path id="Path_304" data-name="Path 304" d="M144.66,69.34H50.8V10.47A1.24,1.24,0,0,1,52,9.23h91.38a1.24,1.24,0,0,1,1.24,1.24Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_305" data-name="Path 305" d="M153.71,73.72H110.64v1a.87.87,0,0,1-.86.86H85.68a.85.85,0,0,1-.85-.86v-1h-43a2.08,2.08,0,0,0-2.08,2.08v4.53a2.08,2.08,0,0,0,2.08,2.08H153.67a2,2,0,0,0,2-2V75.68a2,2,0,0,0-1.96-1.96Z" fill="#1a5336"/>
+      <line id="Line_78" data-name="Line 78" x2="34.72" transform="translate(97.73 31.01)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_79" data-name="Line 79" x2="34.72" transform="translate(97.73 39.01)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_80" data-name="Line 80" x2="34.72" transform="translate(97.73 47.01)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_306" data-name="Path 306" d="M86.46,39.09A12.24,12.24,0,1,1,74.23,26.85,12.24,12.24,0,0,1,86.46,39.09Z" fill="#f7f7f7"/>
+      <circle id="Ellipse_17" data-name="Ellipse 17" cx="12.24" cy="12.24" r="12.24" transform="translate(63.57 27.68)" fill="#00b624"/>
+      <path id="Path_307" data-name="Path 307" d="M80.64,41.14c0-2.87-1.87-3.65-5-4-1.61-.2-2-.53-2-1.25s.51-1.11,1.49-1.11a1.5,1.5,0,0,1,1.71,1.4h3.43a4.8,4.8,0,0,0-4-4v-2H74.12v2c-2.49.34-4,1.92-4,4,0,2.7,1.44,3.7,4.91,4.12,1.56.22,2,.55,2,1.25s-.6,1.3-1.67,1.3c-1.54,0-2-.77-2.07-1.7H69.81c.1,2.47,1.53,4,4.34,4.28v1.94h2.16V45.41C79.09,45.09,80.64,43.3,80.64,41.14Z" fill="#fff"/>
+      <path id="Path_308" data-name="Path 308" d="M79.64,41.14c0-2.87-1.87-3.65-5-4-1.61-.2-2-.53-2-1.25s.51-1.11,1.49-1.11a1.5,1.5,0,0,1,1.71,1.4h3.43a4.8,4.8,0,0,0-4-4v-2H73.12v2c-2.49.34-4,1.92-4,4,0,2.7,1.44,3.7,4.91,4.12,1.56.22,2,.55,2,1.25s-.6,1.3-1.67,1.3c-1.54,0-2-.77-2.07-1.7H68.81c.1,2.47,1.53,4,4.34,4.28v1.94h2.16V45.41C78.09,45.09,79.64,43.3,79.64,41.14Z" fill="#1a5336"/>
+      <path id="Path_309" data-name="Path 309" d="M87.58,38.74A13.35,13.35,0,1,1,74.23,25.4,13.35,13.35,0,0,1,87.58,38.74Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

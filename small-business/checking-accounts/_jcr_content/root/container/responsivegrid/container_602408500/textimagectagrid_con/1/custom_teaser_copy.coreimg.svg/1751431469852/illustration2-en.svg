@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-Illustration2">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="Illustration2" clip-path="url(#clip-Illustration2)">
+    <g id="FLT_ART_WORKS" data-name="FLT ART WORKS" transform="translate(3.94 -5.6)">
+      <rect id="Rectangle_98" data-name="Rectangle 98" width="13.62" height="3.16" transform="translate(79.19 65.88)" fill="#fff"/>
+      <rect id="Rectangle_99" data-name="Rectangle 99" width="13.63" height="3.16" transform="translate(99.56 65.88)" fill="#fff"/>
+      <path id="Path_476" data-name="Path 476" d="M68.11,19.8H53.94a5.89,5.89,0,0,0-5.88,5.88V75.43a5.89,5.89,0,0,0,5.88,5.88h84.72a5.89,5.89,0,0,0,5.88-5.88c-1.249-11.648-3.7-52.825-3.647-53.172ZM92.81,69H79.19V65.88H92.81Zm20.38,0H99.56V65.88h13.63Z" fill="#fff"/>
+      <path id="Path_477" data-name="Path 477" d="M59.21,31V50.31H80.83V31Zm14.2,15.15h-5v-9.1H70.9v7.47h2.43c1.68,0,2.39-1.17,2.39-4.16s-.8-3.89-2.51-3.89H67.66v9.65h-2.5V36.47H61.48V34.86H74c3,0,4.45,1.56,4.45,5.47-.01,5.16-2.15,5.79-5.04,5.79Z" fill="#00b624"/>
+      <rect id="Rectangle_100" data-name="Rectangle 100" width="93.27" height="58.3" rx="4.28" transform="translate(49.66 21.41)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_126" data-name="Line 126" x2="13.36" transform="translate(59.21 67.47)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_127" data-name="Line 127" x2="13.62" transform="translate(79.19 67.47)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_128" data-name="Line 128" x2="13.63" transform="translate(99.56 67.47)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_129" data-name="Line 129" x2="13.62" transform="translate(119.94 67.47)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

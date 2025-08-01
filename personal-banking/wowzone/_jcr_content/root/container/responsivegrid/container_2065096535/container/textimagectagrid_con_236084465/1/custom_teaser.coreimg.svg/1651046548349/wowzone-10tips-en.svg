@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-Wowzone-10Tips">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="Wowzone-10Tips" clip-path="url(#clip-Wowzone-10Tips)">
+    <g id="commericialLiquidity" transform="translate(25.177 17.068)">
+      <g id="Group_535" data-name="Group 535" transform="translate(0 0)">
+        <path id="Path_1448" data-name="Path 1448" d="M118.575,24.658V17.3H30.6V62.286h7.358V24.658Z" transform="translate(-30.6 -17.3)" fill="none" stroke="#1c5437" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_1449" data-name="Path 1449" d="M44.958,31.658h80.618V24.3H37.6V69.286h7.358Z" transform="translate(-30.242 -16.942)" fill="none" stroke="#1c5437" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_1450" data-name="Path 1450" d="M44.6,58.418V76.286h87.975V31.3h-7.358" transform="translate(-29.885 -16.585)" fill="none" stroke="#1c5437" stroke-miterlimit="10" stroke-width="3"/>
+      </g>
+      <ellipse id="Ellipse_9" data-name="Ellipse 9" cx="11.247" cy="11.247" rx="11.247" ry="11.247" transform="translate(45.203 47.037) rotate(-80.782)" fill="none" stroke="#1c5437" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_1451" data-name="Path 1451" d="M87.817,56.09c0,.631-.526,1.156-1.472,1.156-1.366,0-1.787-.631-1.892-1.472H81.3c.105,2.207,1.366,3.574,3.889,3.784v1.787h1.892V59.559c2.523-.315,3.889-1.892,3.889-3.784,0-2.523-1.682-3.258-4.415-3.574-1.472-.21-1.787-.42-1.787-1.156,0-.631.42-.946,1.366-.946a1.426,1.426,0,0,1,1.577,1.261H90.76a3.683,3.683,0,0,0-3.574-3.574V46h-2v1.787c-2.207.315-3.574,1.682-3.574,3.574,0,2.417,1.261,3.258,4.415,3.679C87.4,55.144,87.817,55.46,87.817,56.09Z" transform="translate(-28.01 -15.834)" fill="#1c5437"/>
+      <path id="Path_1452" data-name="Path 1452" d="M116.554,36.72V36.3H60.006v.42A10.362,10.362,0,0,1,49.6,47.126V60.265A10.362,10.362,0,0,1,60.006,70.67h56.548a10.362,10.362,0,0,1,10.406-10.406V47.126A10.429,10.429,0,0,1,116.554,36.72Z" transform="translate(-29.63 -16.329)" fill="none" stroke="#1c5437" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+    <path id="Path_568" data-name="Path 568" d="M666.23,1320.41H646.9a7.716,7.716,0,0,0-7.73,7.73v27.05h27.05a7.716,7.716,0,0,0,7.73-7.73v-19.32A7.7,7.7,0,0,0,666.23,1320.41Zm-7.22,26.3a2.31,2.31,0,0,1-4.61-.01l.02-9.9a2.31,2.31,0,0,1,4.61.01Zm-2.29-13.83a2.475,2.475,0,1,1,2.48-2.47A2.471,2.471,0,0,1,656.72,1332.88Z" transform="translate(-500 -1307.99)" fill="#1e5748"/>
+  </g>
+</svg>

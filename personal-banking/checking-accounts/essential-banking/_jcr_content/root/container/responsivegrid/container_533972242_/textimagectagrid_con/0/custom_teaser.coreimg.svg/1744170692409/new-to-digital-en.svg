@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-New_to_digital_smp_200x90">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="New_to_digital_smp_200x90" clip-path="url(#clip-New_to_digital_smp_200x90)">
+    <g id="FLT_ART_WORKS" data-name="FLT ART WORKS" transform="translate(-4.21 -0.065)">
+      <path id="Path_2360" data-name="Path 2360" d="M142,10.46a2.74,2.74,0,0,0-2.74-2.73H47.85a2.74,2.74,0,0,0-2.71,2.73V70.85H142Z" fill="#fff"/>
+      <path id="Path_2361" data-name="Path 2361" d="M149.52,73.73H106.44v1a.88.88,0,0,1-.86.86H81.48a.86.86,0,0,1-.85-.86v-1h-43a2.06,2.06,0,0,0-2.08,2.06h0v4.54a2.08,2.08,0,0,0,2.08,2.07H149.52a2,2,0,0,0,2-2V75.68A2,2,0,0,0,149.52,73.73Z" fill="#fff"/>
+      <path id="Path_2362" data-name="Path 2362" d="M140.46,69.35H46.61V10.46a1.23,1.23,0,0,1,1.23-1.23h91.38a1.23,1.23,0,0,1,1.24,1.22h0Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_2363" data-name="Path 2363" d="M149.52,73.73H106.44v1a.88.88,0,0,1-.86.86H81.48a.86.86,0,0,1-.85-.86v-1h-43a2.06,2.06,0,0,0-2.08,2.06h0v4.54a2.08,2.08,0,0,0,2.08,2.07H149.52a2,2,0,0,0,2-2V75.68A2,2,0,0,0,149.52,73.73Z" fill="#1a5336"/>
+      <path id="Path_2364" data-name="Path 2364" d="M164.87,59.42l6.03,6.03,1.64-1.64-6.03-6.03,1.69-1.69-8.5-3.49,3.48,8.51Z" fill="#00b624"/>
+      <path id="Path_2365" data-name="Path 2365" d="M170.06,56.18l-13.9-5.7,5.7,13.91,2.22-2.22,6.03,6.02,3.76-3.76-6.03-6.03Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_2366" data-name="Path 2366" d="M100.11,21.44s-6.37-.14-6.37,2.73V58a.22.22,0,0,0,.33.19c.68-.43,2.49-1.29,6-1.29h16.82V21.45Z" fill="#fff"/>
+      <path id="Path_2367" data-name="Path 2367" d="M87.25,21.44H70.43V56.88H87.25c3.56,0,5.36.86,6,1.29a.21.21,0,0,0,.32-.19V24.17C93.63,21.3,87.25,21.44,87.25,21.44Z" fill="#fff"/>
+      <path id="Path_2368" data-name="Path 2368" d="M100.11,56.89h16.82V21.45H100.11s-6.37-.14-6.37,2.73V58a.22.22,0,0,0,.33.19C94.74,57.75,96.55,56.89,100.11,56.89Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_365" data-name="Line 365" x2="10.92" y2="0.01" transform="translate(76.57 39.82)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_366" data-name="Line 366" x2="10.92" y2="0.01" transform="translate(76.57 33.41)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_367" data-name="Line 367" x2="10.92" y2="0.01" transform="translate(76.57 46.23)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_368" data-name="Line 368" x2="10.92" y2="0.01" transform="translate(99.85 39.82)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_369" data-name="Line 369" x2="10.92" y2="0.01" transform="translate(99.85 33.41)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_370" data-name="Line 370" x2="10.92" y2="0.01" transform="translate(99.84 46.23)" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_2369" data-name="Path 2369" d="M87.25,56.89H70.42V21.43H87.25s6.38-.14,6.38,2.73V58a.21.21,0,0,1-.32.19C92.61,57.75,90.81,56.89,87.25,56.89Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_2370" data-name="Path 2370" d="M89.05,58.49A4.82,4.82,0,0,1,91.81,60h3.65a4.82,4.82,0,0,1,2.76-1.53Z" fill="#1a5336"/>
+    </g>
+  </g>
+</svg>

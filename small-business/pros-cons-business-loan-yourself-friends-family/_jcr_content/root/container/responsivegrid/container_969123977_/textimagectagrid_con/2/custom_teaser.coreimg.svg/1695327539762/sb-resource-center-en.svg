@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-SB-resource-center_smp_200x90">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="SB-resource-center_smp_200x90" clip-path="url(#clip-SB-resource-center_smp_200x90)">
+    <g id="Group_688" data-name="Group 688" transform="translate(-1058.82 -147.356)">
+      <g id="privateBanking_smp_200x90_tcm384-286645" transform="translate(1058.6 145.86)">
+        <path id="Path_548" data-name="Path 548" d="M124.8,80.8c-2.7-21.2-15-26.6-25.1-27.4l-3.2-3.1v-.7A20.635,20.635,0,1,0,79,49.4v1.5l-2.6,2.5C61.9,54.4,52.8,64,50.7,80.8a1.268,1.268,0,0,1-.1.6l-.2,2h74.7l-.2-2Z" fill="#fff"/>
+        <line id="Line_143" data-name="Line 143" y1="4.2" transform="translate(80.5 48.8)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <line id="Line_144" data-name="Line 144" y2="4.2" transform="translate(95.1 48.8)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_549" data-name="Path 549" d="M77.3,54.8c-13.5.5-23,8.7-25.2,26.1,0,.3-.1.6-.1.9h71.4l-.1-.8c-2.1-17-11.1-25.2-24-26.1" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_550" data-name="Path 550" d="M123.4,81c-2.1-16.5-11.6-24.7-23.9-26L93.6,81.8h29.9Z" fill="#1a5336"/>
+        <path id="Path_551" data-name="Path 551" d="M123.4,81c-2.1-16.5-11.6-24.7-23.9-26L93.6,81.8h29.9Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_552" data-name="Path 552" d="M52.2,80.9c0,.3-.1.6-.1.9H82L76.9,55C64.6,56.3,54.3,64.4,52.2,80.9Z" fill="#1a5336"/>
+        <path id="Path_553" data-name="Path 553" d="M52.2,80.9c0,.3-.1.6-.1.9H82L76.9,55C64.6,56.3,54.3,64.4,52.2,80.9Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_554" data-name="Path 554" d="M87.7,67.6h.2l3.5,12.7H84l3.7-12.7m-2.3-3L80.1,83.3H95.4L90.3,64.6H85.4Z" fill="#1a5336"/>
+        <path id="Path_555" data-name="Path 555" d="M87.7,58.3l-8.6,7.2L76.9,55l2.9-2.8Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_556" data-name="Path 556" d="M88.5,58.3,97,65.5,99.3,55l-3-2.8Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_557" data-name="Path 557" d="M107.1,30.8A19.15,19.15,0,1,1,88,11.6h0A19.248,19.248,0,0,1,107.1,30.8Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+        <path id="Path_558" data-name="Path 558" d="M83.1,32.3a1.9,1.9,0,0,1-1.9,1.9,1.9,1.9,0,1,1,1.9-1.9Z" fill="#1a5336"/>
+        <path id="Path_559" data-name="Path 559" d="M96.6,32.3a1.9,1.9,0,1,1-1.9-1.9,1.967,1.967,0,0,1,1.9,1.9Z" fill="#1a5336"/>
+        <path id="Path_560" data-name="Path 560" d="M97.1,18.4S89.5,28.7,69.2,28.7a18.785,18.785,0,0,1,37.5,0C106.7,29.1,98.6,25.5,97.1,18.4Z" fill="#1a5336"/>
+        <path id="Path_561" data-name="Path 561" d="M88.5,58.3l1-.8H86.6l1.1.8-3.9,3.2,1.7,3.6h4.6l1.8-3.9Z" fill="#1a5336"/>
+        <path id="Path_563" data-name="Path 563" d="M143.1,38.9H140V33.2h1.6v4.7h1.5c1,0,1.5-.7,1.5-2.6s-.5-2.4-1.6-2.4h-3.5v6h-1.6v-6h-2.3v-1h7.8c1.9,0,2.8,1,2.8,3.4C146.2,38.6,144.9,38.9,143.1,38.9Z" fill="#fff"/>
+      </g>
+      <g id="FLT_ART_WORKS_1_" transform="translate(1118.5 156)">
+        <path id="Path_1718" data-name="Path 1718" d="M91.09,0V33.68H73.35L62.56,43.06V33.68H57.41V0Z" fill="#fff"/>
+        <path id="Path_1719" data-name="Path 1719" d="M62.03,32.17h5.15v5.8l6.67-5.8H89.71V4.49H62.03Z" fill="#00b624"/>
+        <path id="Path_1720" data-name="Path 1720" d="M62.61,43.08V33.69H57.46V.01H91.14V33.69H73.36ZM60.46,30.69h5.15v5.8l6.66-5.8H88.14V3.01H60.42Z" fill="#1a5336"/>
+        <path id="Path_1721" data-name="Path 1721" d="M72.27,8.02h3.39v3H72.27Zm.07,4.77h3.27V24.61H72.36Z" fill="#1a5336"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-In-person_smp_200x90">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="In-person_smp_200x90" clip-path="url(#clip-In-person_smp_200x90)">
+    <g id="FLT_ART_WORKS" data-name="FLT ART WORKS" transform="translate(0.035 0.278)">
+      <path id="Path_266" data-name="Path 266" d="M134.93,57.68,116.5,51.34l-16.45,7.19L82.38,51.38l-17.2,6.29L48.71,83.6,77.76,72.89l22.31,10.52,22.29-10.52,28.92,10.06Z" fill="#fff"/>
+      <path id="Path_267" data-name="Path 267" d="M86.39,39l13.75,13.71L113.9,39a17.57,17.57,0,0,0,5.8-12.8A19.27,19.27,0,0,0,114,12.08,19.56,19.56,0,0,0,80.7,26.46,17.32,17.32,0,0,0,86.39,39Z" fill="#fff"/>
+      <path id="Path_268" data-name="Path 268" d="M101.19,8.5a16.6,16.6,0,0,0-16.57,17A14.49,14.49,0,0,0,89.45,36l11.68,11.64,11.7-11.7a14.64,14.64,0,0,0,4.87-10.72,16.28,16.28,0,0,0-4.86-11.92,16.48,16.48,0,0,0-11.65-4.8Z" fill="#00b624"/>
+      <path id="Path_269" data-name="Path 269" d="M66.18,58.9l16.17-5.92,17.72,7.18,16.49-7.21,17.39,5.98,13.7,21.17-25.37-8.83L100.07,81.75,77.83,71.26l-25.48,9.4Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+      <line id="Line_56" data-name="Line 56" y2="4.61" transform="translate(100.24 60.57)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_57" data-name="Line 57" y2="4.61" transform="translate(100.18 75.96)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_58" data-name="Line 58" y2="4.61" transform="translate(100.24 68.1)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_59" data-name="Line 59" x1="1.06" y2="4.19" transform="translate(78 66.95)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_60" data-name="Line 60" x1="1.06" y2="4.19" transform="translate(79.66 60.4)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_61" data-name="Line 61" x1="1.06" y2="4.19" transform="translate(81.27 54.03)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_62" data-name="Line 62" x2="1.06" y2="4.19" transform="translate(120.78 66.95)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_63" data-name="Line 63" x2="1.06" y2="4.19" transform="translate(119.12 60.4)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <line id="Line_64" data-name="Line 64" x2="1.06" y2="4.19" transform="translate(117.51 54.03)" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="1.896"/>
+      <path id="Path_270" data-name="Path 270" d="M90.35,21.05h14.57c3.53,0,5.17,1.7,5.17,6,0,5.65-2.47,6.34-5.86,6.34H98.37V23.45h2.95v8.23h2.83c2,0,2.78-1.29,2.78-4.56S106,22.85,104,22.85H97.55V33.39H94.63V22.81H90.35Z" fill="#fff"/>
+      <path id="Path_271" data-name="Path 271" d="M100.14,50.62,112.9,37.87c7-6.32,7.12-17.69,0-24.73a18,18,0,0,0-25.45.06c-7,7-7.12,18.45,0,24.77Z" fill="none" stroke="#1a5336" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

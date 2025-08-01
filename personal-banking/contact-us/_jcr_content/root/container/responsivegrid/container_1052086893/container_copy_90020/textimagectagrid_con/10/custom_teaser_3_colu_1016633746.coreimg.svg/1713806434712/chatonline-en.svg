@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 90">
+  <g id="FLT_ART_WORKS" data-name="FLT ART WORKS">
+    <g>
+      <polygon points="147.37 5.97 147.37 65.77 73.36 65.77 59.65 84.03 59.65 65.77 52.63 65.77 52.63 5.97 147.37 5.97" style="fill: #fff"/>
+      <polygon points="145.872 7.612 54.128 7.612 54.128 64.416 61.149 64.416 61.149 79.677 72.611 64.416 145.872 64.416 145.872 7.612" style="fill: none;stroke: #1a5336;stroke-linecap: round;stroke-miterlimit: 10;stroke-width: 3px"/>
+      <circle cx="80.70389" cy="36.9141" r="3.88635" style="fill: #00b624"/>
+      <circle cx="101.55453" cy="36.9141" r="3.88635" style="fill: #00b624"/>
+      <circle cx="122.04227" cy="36.9141" r="3.88635" style="fill: #00b624"/>
+      <g>
+        <circle cx="100.01152" cy="36.06585" r="5.12486" style="fill: none;stroke: #1a5336;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <circle cx="120.66278" cy="36.06585" r="5.12486" style="fill: none;stroke: #1a5336;stroke-miterlimit: 10;stroke-width: 3px"/>
+        <circle cx="79.22318" cy="36.06585" r="5.12486" style="fill: none;stroke: #1a5336;stroke-miterlimit: 10;stroke-width: 3px"/>
+      </g>
+    </g>
+  </g>
+</svg>

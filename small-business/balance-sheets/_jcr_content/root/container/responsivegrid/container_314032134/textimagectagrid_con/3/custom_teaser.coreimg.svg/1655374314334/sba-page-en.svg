@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-SBA_Page_smp_200x90">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="SBA_Page_smp_200x90" clip-path="url(#clip-SBA_Page_smp_200x90)">
+    <g id="FLT_ART_WORKS" data-name="FLT ART WORKS" transform="translate(0.605 -0.07)">
+      <path id="Path_6" data-name="Path 6" d="M147.82,10.46a2.74,2.74,0,0,0-2.74-2.73H53.71A2.74,2.74,0,0,0,51,10.46V70.85h96.85Z" fill="#fff"/>
+      <path id="Path_7" data-name="Path 7" d="M155.38,73.73H112.3v1a.87.87,0,0,1-.86.86H87.34a.86.86,0,0,1-.85-.86v-1h-43a2.07,2.07,0,0,0-2.08,2.07v4.54a2.08,2.08,0,0,0,2.08,2.07H155.38a2,2,0,0,0,2-2V75.68A2,2,0,0,0,155.38,73.73Z" fill="#fff"/>
+      <path id="Path_8" data-name="Path 8" d="M99.56,39.68l6.03,6.03,1.64-1.64-6.03-6.03,1.69-1.69-8.5-3.49,3.48,8.51Z" fill="#00b624"/>
+      <path id="Path_9" data-name="Path 9" d="M146.32,69.35H52.47V10.46a1.23,1.23,0,0,1,1.24-1.23h91.37a1.23,1.23,0,0,1,1.24,1.23Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_10" data-name="Path 10" d="M155.38,73.73H112.3v1a.87.87,0,0,1-.86.86H87.34a.86.86,0,0,1-.85-.86v-1h-43a2.07,2.07,0,0,0-2.08,2.07v4.54a2.08,2.08,0,0,0,2.08,2.07H155.38a2,2,0,0,0,2-2V75.68A2,2,0,0,0,155.38,73.73Z" fill="#1a5336"/>
+      <path id="Path_11" data-name="Path 11" d="M104.75,36.44l-13.9-5.7,5.7,13.91,2.22-2.22,6.03,6.02,3.76-3.76-6.03-6.03Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>

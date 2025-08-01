@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="200" height="90" viewBox="0 0 200 90">
+  <defs>
+    <clipPath id="clip-SBApplyOnline_smp_200x90">
+      <rect width="200" height="90"/>
+    </clipPath>
+  </defs>
+  <g id="SBApplyOnline_smp_200x90" clip-path="url(#clip-SBApplyOnline_smp_200x90)">
+    <g id="FLT_ART_WORKS_1_" transform="translate(43 8)">
+      <path id="Path_1914" data-name="Path 1914" d="M106.41,2.73A2.742,2.742,0,0,0,103.67,0H12.3A2.742,2.742,0,0,0,9.59,2.73V63.12h96.85Z" fill="#fff"/>
+      <path id="Path_1915" data-name="Path 1915" d="M113.97,66H70.89v1a.88.88,0,0,1-.86.86H45.93a.864.864,0,0,1-.85-.86V66h-43A2.074,2.074,0,0,0,0,68.06v4.55a2.089,2.089,0,0,0,2.08,2.07H113.97a2.006,2.006,0,0,0,2-2V67.95A2,2,0,0,0,113.97,66Z" fill="#fff"/>
+      <path id="Path_1916" data-name="Path 1916" d="M58.15,31.95l6.03,6.03,1.64-1.64-6.03-6.03,1.69-1.69-8.5-3.49,3.48,8.51Z" fill="#00b624"/>
+      <path id="Path_1917" data-name="Path 1917" d="M104.91,61.62H11.06V2.73A1.229,1.229,0,0,1,12.29,1.5h91.38a1.229,1.229,0,0,1,1.24,1.22v58.9Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+      <path id="Path_1918" data-name="Path 1918" d="M113.97,66H70.89v1a.88.88,0,0,1-.86.86H45.93a.864.864,0,0,1-.85-.86V66h-43A2.074,2.074,0,0,0,0,68.06v4.55a2.089,2.089,0,0,0,2.08,2.07H113.97a2.006,2.006,0,0,0,2-2V67.95A2,2,0,0,0,113.97,66Z" fill="#1a5336"/>
+      <path id="Path_1919" data-name="Path 1919" d="M63.34,28.71l-13.9-5.7,5.7,13.91,2.22-2.22,6.03,6.02,3.76-3.76-6.03-6.03Z" fill="none" stroke="#1a5336" stroke-linecap="square" stroke-miterlimit="10" stroke-width="3"/>
+    </g>
+  </g>
+</svg>
